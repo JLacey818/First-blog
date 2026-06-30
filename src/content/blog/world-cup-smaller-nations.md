@@ -2,7 +2,7 @@
 title: 'The Rise of the Underdogs: How Smaller Nations Are Rewriting Football History'
 description: 'From Morocco at the 2022 World Cup to the chaos of Euro 2020, the old footballing order is crumbling — and it is beautiful.'
 pubDate: '2026-06-27'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-world-cup.jpg'
 ---
 
 Football has always had its elite. Brazil, Germany, France, Spain, Argentina — the names that are supposed to matter come a major tournament. But over the last few years, something has shifted. Smaller nations are no longer turning up just to make the numbers. They are winning games they have no business winning, and in doing so, they are forcing a rethink of what international football actually looks like.
